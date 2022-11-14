@@ -2,7 +2,7 @@
   "name": "fase-1",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "Este é um POC (Proof Of Concept) de Typescript, com o tema de um site de lista de filmes que possui nome, categoria e plataforma de cada filme.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,13 @@
     "dotenv": "^16.0.3",
     "ts-node": "^10.9.1",
     "typescript": "^4.8.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessKangs/poc-typescrypt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JessKangs/poc-typescrypt/issues"
+  },
+  "homepage": "https://github.com/JessKangs/poc-typescrypt#readme"
 }
